@@ -145,6 +145,3 @@ This coursework provides a **ground-up, educational implementation** of the Tran
 ```bash
 pip install torch numpy
 
-
-## 📂 Project Structure
-
